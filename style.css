@@ -28,7 +28,7 @@ body {
   align-items: center;
   color: var(--primary-b-400, #6070ff);
   text-align: center;
-  font-family: Poppins;
+  font-family: 'Poppins', sans-serif;
   font-size: 18px;
   font-style: normal;
   font-weight: 700;
@@ -59,7 +59,7 @@ body {
   flex-direction: column;
   justify-content: center;
   color: var(--neutrals-n-800, #172b4d);
-  font-family: Poppins;
+  font-family: 'Poppins', sans-serif;
   font-size: 40px;
   font-style: normal;
   font-weight: 700;
@@ -71,14 +71,14 @@ body {
   height: 146px;
   color: #344563;
   font-size: 16px;
-  font-family: Poppins;
+  font-family: 'Poppins', sans-serif;
   font-weight: 400;
   line-height: 24px;
 }
 
 .connect {
   color: var(--primary-b-300, #7f8cff);
-  font-family: Poppins;
+  font-family: 'Poppins', sans-serif;
   font-size: 16px;
   font-style: normal;
   font-weight: 500;
